@@ -41,10 +41,3 @@ The repository explains how to perform these operations in C++.
 
 This repository includes C++ implementations of linked lists for each type. You can explore the code to see how linked lists are implemented and how they can be used in your applications.
 
-## Examples
-
-The 'examples' directory in this repository contains C++ code samples that demonstrate different aspects of linked lists. These examples cover common use cases and can be used for learning and practice.
-
-## Contributing
-
-Contributions are welcome! If you'd like to add more examples, improve explanations, or fix issues, please feel
