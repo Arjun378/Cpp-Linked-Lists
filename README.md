@@ -41,3 +41,6 @@ The repository explains how to perform these operations in C++.
 
 This repository includes C++ implementations of linked lists for each type. You can explore the code to see how linked lists are implemented and how they can be used in your applications.
 
+![Screenshot 2023-10-17 152136](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/35740021-3285-4687-8a28-a7dc2e603ef1)
+
+
