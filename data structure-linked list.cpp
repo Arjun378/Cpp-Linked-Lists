@@ -55,19 +55,24 @@
         temp=head;
         while(temp->next!=NULL)
         {
-        if (temp->next==35)
-        {
-            newnode->next = temp->next;
-            temp->next=newnode;
-            break;
-        }
         temp=temp->next;
         }
         temp->next = newnode;
         }
         del_end()
         {
+            if (head == NULL)
+            {
+                cout << "List is empty." << endl;
+                return 0;
+            }
 
+            node* temp = head;
+            while (temp->next->next != NULL)
+                temp = temp->next;
+
+            delete temp->next;
+            temp->next = NULL;
         }
         disp_ll()
         {
