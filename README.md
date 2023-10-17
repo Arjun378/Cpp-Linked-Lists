@@ -43,4 +43,17 @@ This repository includes C++ implementations of linked lists for each type. You 
 
 ![Screenshot 2023-10-17 152136](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/35740021-3285-4687-8a28-a7dc2e603ef1)
 
+![Screenshot 2023-10-17 152037](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/2e90f547-de69-4372-9b04-ee9fdae87c67)
+
+![Screenshot 2023-10-17 152048](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/a8e8a3f7-b1c4-4f43-8e5c-f155f542483e)
+
+![Screenshot 2023-10-17 152103](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/53222ff6-ff09-4142-aea0-23c5d27611be)
+
+![Screenshot 2023-10-17 152126](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/292171e1-442b-4667-90c5-183661588b42)
+
+![Screenshot 2023-10-17 152136](https://github.com/Arjun378/Cpp-Linked-Lists/assets/74441883/028e607a-0a5b-469b-9233-057678296d21)
+
+
+
+
 
